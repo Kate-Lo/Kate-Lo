@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kate-Lo
+- 👋 Hi, I’m Katsiaryna Lakhmakova
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking for a job to start my career in DS
